@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a442f298-17b0-46cd-824f-afafdc4e7167" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cars" afterPath="$PROJECT_DIR$/cars" />
-    </list>
+    <list default="true" id="a442f298-17b0-46cd-824f-afafdc4e7167" name="Default" comment="" />
     <ignored path="testrepository2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Template Data Languages" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/exceptions" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
